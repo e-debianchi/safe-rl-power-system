@@ -1,0 +1,9 @@
+cvxpy==1.6.0
+cvxpylayers==0.1.8
+gpytorch==1.13
+gymnasium==1.0.0
+matplotlib==3.10.3
+numpy==2.3.0
+scipy==1.15.3
+stable_baselines3==2.4.0
+torch==2.5.1
