@@ -45,7 +45,7 @@ This project explores the use of **reinforcement learning (RL)** to design a con
 - Define a *safe set* in the state space.
 - Correct actions by solving a QP to stay within this set.
 
-### 🔄 Algorithm: Safe Soft Actor-Critic (Safe-SAC)
+### 🧮 Algorithm: Safe Soft Actor-Critic (Safe-SAC)
 - SAC with modified entropy regularization and off-policy updates.
 - Safety-corrected actions during training and evaluation.
 - Gradient backpropagation through the QP solution to enable **safe learning**.
