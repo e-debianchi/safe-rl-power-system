@@ -51,6 +51,11 @@ This project explores the use of **reinforcement learning (RL)** to design a con
 - Gradient backpropagation through the QP solution to enable **safe learning**.
 - Attack quickly learned through a Gaussian Process (GP) Regressor *in the early stages of training*.
 
+> 📄 **Citation**  
+> Emam, Y., Notomista, G., Glotfelter, P., Kira, Z., Egerstedt, M. (2022).  
+> *Safe Reinforcement Learning Using Robust Control Barrier Functions*.  
+> [IEEE Robotics and Automation Letters PP(99):1-8](http://dx.doi.org/10.1109/LRA.2022.3216996)  
+
 ---
 
 ## 🧪 Experiments
